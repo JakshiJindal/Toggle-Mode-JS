@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+.toggle-button {
+  width: 60px;
+  height: 20px;
+  border: 2px solid black;
+  border-radius: 25px;
+}
+.circle {
+  width: 10px;
+  height: 20px;
+  border-radius: 50%;
+  padding-left: 15px;
+  border: 0;
+  background-color: black;
+}
+.white-circle {
+  width: 16px;
+  height: 20px;
+  border-radius: 50%;
+  margin-left: 44px;
+  border: 0;
+  background-color: black;
+}
